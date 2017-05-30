@@ -1,0 +1,172 @@
+body{
+margin: 0;
+}
+
+
+.haut_de_page{
+width: 100%;
+background-color:rgb(254, 149, 25);
+
+}
+
+/*Soleil*/
+
+.soleil{
+background-color: yellow;
+border-radius: 50%;
+width: 150px;
+height: 150px;
+margin-left: 100px;
+margin-top: 20px;
+}
+
+/*Contenu de la page*/
+
+.contenu_page {
+background-color: black;
+}
+
+/*Toit vert*/
+
+
+.container {
+background-color:rgb(87, 241, 225) ;
+display: flex;
+align-items: center;
+flex-direction: column;
+}
+
+.toit1{
+height: 25px;
+width: 50px;
+background-color: green;
+}
+
+.toit2{
+height: 25px;
+width: 100px;
+background-color: green;
+}
+
+.toit3{
+height: 25px;
+width: 150px;
+background-color: green;
+}
+
+.toit4{
+height: 25px;
+width: 200px;
+background-color: green;
+}
+
+.toit5{
+height: 25px;
+width: 250px;
+background-color: green;
+}
+
+/*3 colonnes du batiment marron*/
+
+.batiment {
+display: flex;
+flex-direction: row;
+width: 250px;
+height: 300px;
+background-color: red;
+}
+
+.col1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(193, 86, 18);
+  width: 33.33%;
+}
+
+.col2{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(193, 86, 18);
+    width: 33.33%;
+
+}
+.col3{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(193, 86, 18);
+    width: 33.33%;
+}
+
+/*9 Fenetre Jaune*/
+
+.fenetre1{
+height: 50px;
+width: 50px;
+background-color: rgb(196, 191, 60);
+margin-top: 50px;
+
+}
+
+.fenetre2{
+height: 50px;
+width: 50px;
+background-color: rgb(196, 191, 60);
+margin: 10px;
+}
+
+.fenetre3{
+height: 50px;
+width: 50px;
+background-color: rgb(196, 191, 60);
+}
+
+.fenetre4{
+height: 50px;
+width: 50px;
+background-color: rgb(196, 191, 60);
+margin-top: 50px;
+}
+
+.fenetre5{
+height: 50px;
+width: 50px;
+background-color: rgb(196, 191, 60);
+margin: 10px;
+}
+
+.fenetre6{
+height: 130px;
+width: 50px;
+background-color: rgb(69, 40, 17);
+}
+
+.fenetre7{
+height: 50px;
+width: 50px;
+background-color: rgb(196, 191, 60);
+margin-top: 50px;
+}
+
+.fenetre8{
+height: 50px;
+width: 50px;
+background-color: rgb(196, 191, 60);
+margin: 10px;
+}
+
+.fenetre9{
+height: 50px;
+width: 50px;
+background-color: rgb(196, 191, 60);
+}
+
+/*Pelouse*/
+
+.trait{
+  height: 6px;
+  width: 100%;
+  background-color: green;
+}
